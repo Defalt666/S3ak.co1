@@ -1,0 +1,10 @@
+{
+  "scripts": {
+    "start": "node ./src/index.js"
+  },
+  "dependencies": {
+    "init": "^0.1.2",
+    "qrcode-terminal": "^0.12.0",
+    "whatsapp-web.js": "^1.17.1"
+  }
+}
